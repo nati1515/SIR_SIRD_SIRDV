@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------------------------------------
 # Name: Natnael Kassahun
-# Date: 04/30/2025
-# BIOS 584 Assignment 4 Application 2 (VIBE codig)
+# Date: May 2025
+# BIOS 584  Application 2 (SIR _SIRD_SIRDV coding)
 #-----------------------------------------------------------------------------------------------------------------------
 import tkinter as tk
 from tkinter import ttk
